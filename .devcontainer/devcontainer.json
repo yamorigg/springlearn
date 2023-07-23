@@ -1,6 +1,8 @@
 {
     "name": "ubuntu for springboot",
     "dockerFile": "Dockerfile",
+	"remoteUser": "vsdev",
+	"shutdownAction": "stopContainer",
     "extensions": [
 		"vscjava.vscode-java-pack",
 		"vmware.vscode-boot-dev-pack",
