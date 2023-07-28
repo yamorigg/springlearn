@@ -1,0 +1,16 @@
+{
+    "name": "ubuntu for springboot",
+    "dockerFile": "Dockerfile",
+	"shutdownAction": "stopContainer",
+    "extensions": [
+		"vscjava.vscode-java-pack",
+		"vmware.vscode-boot-dev-pack",
+		"ms-azuretools.vscode-docker",
+		"ms-vscode-remote.vscode-remote-extensionpack",
+		"formulahendry.auto-close-tag",
+		"formulahendry.code-runner",
+		"GitHub.copilot",
+		"k--kato.intellij-idea-keybindings",
+		"mosapride.zenkaku"
+	]
+}
